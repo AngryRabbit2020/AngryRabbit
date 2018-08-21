@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfPlayerLevelItem>
+	<PlayerLevelItem Level="1" MinExp="0" MaxExp="99"/>
+	<PlayerLevelItem Level="2" MinExp="100" MaxExp="399"/>
+	<PlayerLevelItem Level="3" MinExp="400" MaxExp="999"/>
+	<PlayerLevelItem Level="4" MinExp="1000" MaxExp="1999"/>
+	<PlayerLevelItem Level="5" MinExp="2000" MaxExp="3999"/>
+	<PlayerLevelItem Level="6" MinExp="4000" MaxExp="7999"/>
+	<PlayerLevelItem Level="7" MinExp="8000" MaxExp="13999"/>
+	<PlayerLevelItem Level="8" MinExp="14000" MaxExp="21999"/>
+	<PlayerLevelItem Level="9" MinExp="22000" MaxExp="29999"/>
+	<PlayerLevelItem Level="10" MinExp="30000" MaxExp="39999"/>
+</ArrayOfPlayerLevelItem>
+<!-- 经验等级配置 -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfCoinTaskLineItem>
+	<CoinTaskLineItem TaskId="101" TaskEntityType="0" TaskType="0" NextTaskId="102" TaskTitle="金币收集-1" TaskDesc="收集 100 金币" TaskRequirements="coin=100" TaskCombineType="0" TaskRewards="exp=10,gold=10" TaskRewardsCombineType="1"/>
+	<CoinTaskLineItem TaskId="102" TaskEntityType="0" TaskType="0" NextTaskId="103" TaskTitle="金币收集-2" TaskDesc="收集 200 金币" TaskRequirements="coin=200" TaskCombineType="0" TaskRewards="exp=20,gold=20" TaskRewardsCombineType="1"/>
+	<CoinTaskLineItem TaskId="103" TaskEntityType="0" TaskType="0" NextTaskId="104" TaskTitle="金币收集-3" TaskDesc="收集 400 金币" TaskRequirements="coin=400" TaskCombineType="0" TaskRewards="exp=40,gold=40" TaskRewardsCombineType="1"/>
+	<CoinTaskLineItem TaskId="104" TaskEntityType="0" TaskType="0" NextTaskId="105" TaskTitle="金币收集-4" TaskDesc="收集 800 金币" TaskRequirements="coin=800" TaskCombineType="0" TaskRewards="exp=80,gold=80" TaskRewardsCombineType="1"/>
+	<CoinTaskLineItem TaskId="105" TaskEntityType="0" TaskType="0" NextTaskId="106" TaskTitle="金币收集-5" TaskDesc="收集 1600 金币" TaskRequirements="coin=1600" TaskCombineType="0" TaskRewards="exp=160,gold=160" TaskRewardsCombineType="1"/>
+	<CoinTaskLineItem TaskId="106" TaskEntityType="0" TaskType="0" NextTaskId="0" TaskTitle="金币收集-6" TaskDesc="收集 3200 金币" TaskRequirements="coin=3200" TaskCombineType="0" TaskRewards="exp=320,gold=320" TaskRewardsCombineType="1"/>
+</ArrayOfCoinTaskLineItem>
+<!-- 金币任务配置 -->

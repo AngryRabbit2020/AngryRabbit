@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfPlayerLevelTaskLineItem>
+	<PlayerLevelTaskLineItem TaskId="201" TaskEntityType="0" TaskType="1" NextTaskId="202" TaskTitle="等级成长-1" TaskDesc="等级达到 5 级" TaskRequirements="level-5-1" TaskCombineType="0" TaskRewards="exp-10,gold-10" TaskRewardsCombineType="0"/>
+	<PlayerLevelTaskLineItem TaskId="202" TaskEntityType="0" TaskType="1" NextTaskId="203" TaskTitle="等级成长-2" TaskDesc="等级达到 10 级" TaskRequirements="level-10-1" TaskCombineType="0" TaskRewards="exp-20,gold-20" TaskRewardsCombineType="0"/>
+	<PlayerLevelTaskLineItem TaskId="203" TaskEntityType="0" TaskType="1" NextTaskId="204" TaskTitle="等级成长-3" TaskDesc="等级达到 15 级" TaskRequirements="level-15-1" TaskCombineType="0" TaskRewards="exp-40,gold-40" TaskRewardsCombineType="0"/>
+	<PlayerLevelTaskLineItem TaskId="204" TaskEntityType="0" TaskType="1" NextTaskId="205" TaskTitle="等级成长-4" TaskDesc="等级达到 20 级" TaskRequirements="level-20-1" TaskCombineType="0" TaskRewards="exp-80,gold-80" TaskRewardsCombineType="0"/>
+	<PlayerLevelTaskLineItem TaskId="205" TaskEntityType="0" TaskType="1" NextTaskId="206" TaskTitle="等级成长-5" TaskDesc="等级达到 30 级" TaskRequirements="level-30-1" TaskCombineType="0" TaskRewards="exp-160,gold-160" TaskRewardsCombineType="0"/>
+	<PlayerLevelTaskLineItem TaskId="206" TaskEntityType="0" TaskType="1" NextTaskId="0" TaskTitle="等级成长-6" TaskDesc="等级达到 40 级" TaskRequirements="level-40-1" TaskCombineType="0" TaskRewards="exp-320,gold-320" TaskRewardsCombineType="0"/>
+</ArrayOfPlayerLevelTaskLineItem>
+<!-- 等级任务配置 -->
